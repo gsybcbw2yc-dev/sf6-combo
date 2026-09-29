@@ -1,1 +1,1 @@
-# sf6-combo
+# sf6-akuma-combo
